@@ -13,7 +13,9 @@ body{
   width: 100%;
   height: 100vh;
   padding: 15px;
-  background: linear-gradient(to bottom, #ff9999 0%, #0099cc 100%);
+  background-color: #a4508b;
+  background-image: linear-gradient(326deg, #a4508b 0%, #5f0a87 74%);
+  
 }
 .wrapper{
   background: #FBFBF2;
@@ -55,7 +57,8 @@ body{
   margin-left: 5px;
   font-size: 26px;
   outline: none;
-  background: linear-gradient(to bottom, #99ffcc 0%, #cc99ff 100%);
+  background-color: #7f5a83;
+  background-image: linear-gradient(315deg, #7f5a83 0%, #0d324d 74%);
   cursor: pointer;
   border-radius: 5px;
   opacity: 0.8;
@@ -120,7 +123,7 @@ body{
   font-weight: 400;
   font-size: 35px;
   margin-left: 5px;
-  background: #8E49E8;
+  background: #470fe0;
   cursor: pointer;
   user-select: none;
   opacity: 0.6;
